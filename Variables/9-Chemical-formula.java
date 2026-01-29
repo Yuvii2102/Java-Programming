@@ -19,3 +19,6 @@ public class Chemical
         System.out.println(result);
     }
 }
+
+
+//double result = (chemicalA + chemicalB) / (chemicalA * chemicalB);
